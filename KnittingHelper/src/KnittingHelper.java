@@ -1,7 +1,7 @@
 
 /*
  * Author: Rachel Keenan
- * Date: 4/7/2025
+ * Date: 4/8/2025
  * Info: Program to help convert knitting patterns to the user's preferences
  * Future:	Add a skein calculator
  * 			Throw an error for invalid inputs

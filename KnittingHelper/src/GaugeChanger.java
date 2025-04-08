@@ -1,6 +1,6 @@
 /*
  * Author: Rachel Keenan
- * Date: 4/7/2025
+ * Date: 4/8/2025
  * Info: Method to change gauge in pattern to preferred gauge
  * Based on: https://www.ashleylillis.com/blog/2021/4/14/how-to-change-knitting-gauge-in-a-pattern
  * 
