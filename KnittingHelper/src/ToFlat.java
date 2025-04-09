@@ -3,7 +3,8 @@
  * Date: 4/8/2025
  * Info: Method to change pattern from "in the round" to "flat"
  * Based on: https://nimble-needles.com/tutorials/how-to-convert-a-knitting-pattern-from-in-the-round-to-flat-knitting/
- * Notes: Should add more user-friendly instructions, like the different stitch types and their acronyms
+ * Future: 	Should add more user-friendly instructions, like the different stitch types and their acronyms
+ * 			Could use switch statements to clean up code.
  */
 
 public class ToFlat {
@@ -75,7 +76,7 @@ public class ToFlat {
 		}
 		
 		
-		System.out.println("Your new pattern is: ");
+		System.out.println("Your new flat pattern is: ");
 		
 		//print new pattern
 		for(int i = 0; i < rows; i++) {

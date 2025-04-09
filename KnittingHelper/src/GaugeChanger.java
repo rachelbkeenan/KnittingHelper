@@ -3,7 +3,7 @@
  * Date: 4/8/2025
  * Info: Method to change gauge in pattern to preferred gauge
  * Based on: https://www.ashleylillis.com/blog/2021/4/14/how-to-change-knitting-gauge-in-a-pattern
- * 
+ * Future: Could throw errors for invalid inputs
  */
 
 public class GaugeChanger {
