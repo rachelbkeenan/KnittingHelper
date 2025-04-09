@@ -1,6 +1,6 @@
 /*
  * Author: Rachel Keenan
- * Date: 4/7/2025
+ * Date: 4/8/2025
  * Info: Method to change pattern from "flat" to "in the round"
  * Based on: https://nimble-needles.com/tutorials/how-to-convert-a-knitting-pattern-from-in-the-round-to-flat-knitting/
  * Future: 	Should add more user-friendly instructions, like the different stitch types and their acronyms
